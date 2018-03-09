@@ -4,7 +4,7 @@
 
 有趣好玩的糖果甜甜圈游戏，飞的更高，吃的更多，得分也越多！
 
-
+![image](https://raw.githubusercontent.com/YangKani/CandyParty/master/infoimg.png)
 
 
 # File
